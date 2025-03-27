@@ -1,1 +1,1 @@
-# deploy-on-kubernetes-with-gitops
+# gitops-register-app
